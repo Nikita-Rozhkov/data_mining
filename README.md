@@ -1,1 +1,1 @@
-# data_mining_course
+# data_mining
